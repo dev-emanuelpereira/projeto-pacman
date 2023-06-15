@@ -5,7 +5,7 @@ Projeto feito com o intuito de desenvolver e aprimorar a minha própria lógica 
 Requisitos para abrir o projeto:
 - Python
 - Pygame
-- 
+
 <hr>
 <strong>Como instalar o Python na sua maquina:</strong>
 
