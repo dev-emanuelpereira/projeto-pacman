@@ -35,7 +35,7 @@ Requisitos para abrir o projeto:
 <strong>3.</strong> Com o pip instalado, você pode instalar o Pygame digitando o seguinte comando no console: <code>pip install pygame</code>
 
 <hr>
-<h2>Com os Python e Pygame instalados, siga os passos abaixo:</h2><br>
+<h2>Com os Python e Pygame instalados, siga os passos abaixo:</h2>
 
 <strong>1.</strong> Faça o download do arquivo ZIP.<br>
 <strong>2.</strong> Extraia a pasta do projeto.<br>
