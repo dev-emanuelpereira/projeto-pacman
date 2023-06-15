@@ -7,8 +7,8 @@ Requisitos para abrir o projeto:
 - Pygame
 
 <hr>
-<strong>Como instalar o Python na sua maquina:</strong>
-<br>
+<strong>Como instalar o Python na sua maquina:</strong><br>
+
 <strong>1.</strong> Acesse o site oficial do Python: https://www.python.org.
 
 <strong>2.</strong> Na página inicial, clique no botão "Downloads" no menu superior.
@@ -26,7 +26,7 @@ Requisitos para abrir o projeto:
 <strong>8.</strong> Clique em "Next" (ou "Avançar") e siga as instruções na tela para concluir a instalação. Você pode deixar as opções padrão selecionadas, a menos que saiba que precisa de algo específico.
 
 <hr>
-<strong>Como instalar o Pygame na sua maquina:</strong>
+<strong>Como instalar o Pygame na sua maquina:</strong><br>
 
 <strong>1.</strong> Abra o console ou terminal no seu sistema operacional. No Windows, você pode pressionar as teclas "Win + R", digitar "cmd" e pressionar Enter. No macOS e Linux, você pode usar o terminal padrão do sistema.
 
@@ -35,8 +35,8 @@ Requisitos para abrir o projeto:
 <strong>3.</strong> Com o pip instalado, você pode instalar o Pygame digitando o seguinte comando no console: <code>pip install pygame</code>
 
 <hr>
-Com os Python e Pygame instalados, siga os passos abaixo:
-<br>
+<strong>Com os Python e Pygame instalados, siga os passos abaixo:</strong><br>
+
 <strong>1.</strong> Faça o download do arquivo ZIP.<br>
 <strong>2.</strong> Extraia a pasta do projeto.<br>
 <strong>3.</strong> Abra o projeto utlizando o Pycharm ou VS Code.<br>
