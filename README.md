@@ -8,7 +8,7 @@ Requisitos para abrir o projeto:
 
 <hr>
 <strong>Como instalar o Python na sua maquina:</strong>
-
+<br>
 <strong>1.</strong> Acesse o site oficial do Python: https://www.python.org.
 
 <strong>2.</strong> Na página inicial, clique no botão "Downloads" no menu superior.
@@ -36,7 +36,7 @@ Requisitos para abrir o projeto:
 
 <hr>
 Com os Python e Pygame instalados, siga os passos abaixo:
-
+<br>
 <strong>1.</strong> Faça o download do arquivo ZIP.<br>
 <strong>2.</strong> Extraia a pasta do projeto.<br>
 <strong>3.</strong> Abra o projeto utlizando o Pycharm ou VS Code.<br>
