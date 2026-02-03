@@ -1,44 +1,99 @@
-# Replica do Pac-Man
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-1.9%2B-darkgreen)
 
-Projeto feito com o intuito de desenvolver e aprimorar a minha própria lógica de programação, utlizando a linguagem Python.
+# Réplica do Pac-Man
 
-Requisitos para abrir o projeto:
-- Python
+Projeto desenvolvido com o objetivo de **praticar e aprimorar a lógica de programação**, utilizando a linguagem **Python** e a biblioteca **Pygame**.
+
+O jogo é uma réplica inspirada no clássico **Pac-Man**, focando em movimentação, colisões, controle de eventos e lógica de jogo.
+
+---
+
+## Tecnologias Utilizadas
+
+- **Python**
+- **Pygame**
+
+---
+
+## Pré-requisitos
+
+Para executar o projeto, é necessário ter instalado:
+
+- Python 3.9 ou superior
 - Pygame
 
-<hr>
-<h2>Como instalar o Python na sua maquina:</h2>
+---
 
-<strong>1.</strong> Acesse o site oficial do Python: https://www.python.org.
+## Como instalar o Python
 
-<strong>2.</strong> Na página inicial, clique no botão "Downloads" no menu superior.
+1. Acesse o site oficial do Python:  
+   https://www.python.org
 
-<strong>3.</strong> Na seção de downloads, você encontrará as versões mais recentes do Python disponíveis. Selecione a versão que deseja instalar. Recomenda-se escolher a versão mais recente estável (como o Python 3.9 ou superior).
+2. Clique em **Downloads** no menu superior.
 
-<strong>4.</strong> Role a página até encontrar os instaladores disponíveis para o seu sistema operacional (Windows, macOS, ou Linux). Clique no link correspondente ao seu sistema.
+3. Baixe a versão mais recente estável do Python (3.9 ou superior).
 
-<strong>5.</strong> O instalador será baixado para o seu computador. Após o download, localize o arquivo de instalação e execute-o.
+4. Execute o instalador.
 
-<strong>6.</strong> Na primeira tela do instalador, marque a opção "Add Python X.X to PATH" (substitua o "X.X" pela versão específica que você está instalando). Essa opção adicionará o Python ao caminho do sistema, permitindo que você o execute a partir de qualquer local no prompt de comando ou terminal.
+5. **Importante:** marque a opção ```Add to Path```
 
-<strong>7.</strong> Selecione a opção "Customize installation" (ou "Instalação personalizada") para personalizar as opções de instalação. Aqui você pode definir a pasta de instalação, recursos adicionais e componentes opcionais. Se você não tiver certeza, pode prosseguir com as opções padrão.
+6. Escolha **Customize installation** (ou prossiga com as opções padrão).
 
-<strong>8.</strong> Clique em "Next" (ou "Avançar") e siga as instruções na tela para concluir a instalação. Você pode deixar as opções padrão selecionadas, a menos que saiba que precisa de algo específico.
+7. Finalize a instalação seguindo as instruções do instalador.
 
-<hr>
-<h2>Como instalar o Pygame na sua maquina:</h2>
+Para verificar se o Python foi instalado corretamente, execute no terminal:
 
-<strong>1.</strong> Abra o console ou terminal no seu sistema operacional. No Windows, você pode pressionar as teclas "Win + R", digitar "cmd" e pressionar Enter. No macOS e Linux, você pode usar o terminal padrão do sistema.
+```bash
+python --version
+```
 
-<strong>2.</strong> Certifique-se de ter o gerenciador de pacotes pip instalado. Ele é geralmente instalado automaticamente com o Python, mas se você não tiver certeza, pode verificar digitando o seguinte comando no console: <code>pip --version</code>
+---
 
-<strong>3.</strong> Com o pip instalado, você pode instalar o Pygame digitando o seguinte comando no console: <code>pip install pygame</code>
+## Como instalar o Pygame
 
-<hr>
-<h2>Com os Python e Pygame instalados, siga os passos abaixo:</h2>
+1. Abra o terminal ou prompt de comando:
 
-<strong>1.</strong> Faça o download do arquivo ZIP.<br>
-<strong>2.</strong> Extraia a pasta do projeto.<br>
-<strong>3.</strong> Abra o projeto utlizando o Pycharm ou VS Code.<br>
-<strong>4.</strong> Selecione o arquivo <strong><code>main.py</code></strong><br>
-<strong>5.</strong> Dê RUN no projeto.<br>
+  Windows: Win + R → digite cmd
+
+  macOS / Linux: use o terminal padrão
+
+2. Verifique se o pip está instalado:
+
+```bash
+pip --version
+```
+---
+
+3. Instale o Pygame:
+   
+```bash
+pip install pygame
+```
+---
+
+## Como executar o projeto
+
+1. Faça o download do projeto (ZIP ou clone do repositório).
+2. Extraia a pasta do projeto.
+3. Abra o projeto no PyCharm ou Visual Studio Code.
+4. Localize o arquivo:
+```
+main.py
+```
+5. Execute o arquivo (Run).
+
+---
+## Objetivos do Projeto
+
+- Praticar lógica de programação
+- Trabalhar com eventos e loops de jogo
+- Implementar colisões e movimentação
+- Aprender conceitos básicos de desenvolvimento de jogos em Python
+
+---
+
+### Autor
+Emanuel Pereira
+- GitHub: https://github.com/dev-emanuelpereira
