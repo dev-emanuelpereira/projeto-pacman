@@ -94,6 +94,6 @@ main.py
 
 ---
 
-### Autor
-Emanuel Pereira
+## 👤 Autor
+### Emanuel Pereira
 - GitHub: https://github.com/dev-emanuelpereira
