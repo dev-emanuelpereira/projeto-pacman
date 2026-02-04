@@ -1,8 +1,7 @@
+# Réplica do Pac-Man
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-1.9%2B-darkgreen)
-
-# Réplica do Pac-Man
 
 Projeto desenvolvido com o objetivo de **praticar e aprimorar a lógica de programação**, utilizando a linguagem **Python** e a biblioteca **Pygame**.
 
